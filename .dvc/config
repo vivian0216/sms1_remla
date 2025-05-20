@@ -1,6 +1,5 @@
 [core]
     analytics = false
+    remote = myremote
 ['remote "myremote"']
-    url = gdrive://1G4xF9XwnSz7wtOvzLpThkkGw2iL87UU3
-    gdrive_client_id = 25138782945-e22oo7f6b7midkt8g1l93f4faj2l4o6q.apps.googleusercontent.com
-    gdrive_client_secret = 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
+    url = ../ gdrive:/1G4xF9XwnSz7wtOvzLpThkkGw2iL87UU3/dvcstore
